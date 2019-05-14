@@ -89,7 +89,6 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="colorCalc.cu" />
     <CudaCompile Include="main.cu" />
     <CudaCompile Include="calc.cuh" />
   </ItemGroup>
